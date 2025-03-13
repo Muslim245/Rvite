@@ -1,6 +1,6 @@
 export function Contact() {
     return (
-        <div className="container h-screen flex flex-col gap-20">
+        <div className=" h-screen justify-center flex flex-col ">
             <div className="title text-center pt-28">
             <h2 className="uppercase font-bold text-second text-4xl pb-3">conatct section</h2>
             <div className="w-fit mx-auto relative after:content[''] after:w-20  after:h-1 after:absolute 

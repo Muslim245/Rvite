@@ -8,9 +8,13 @@ import { Home } from './Component/Home/Home'
 import { Contact } from './Component/Contact/Contact'
 import { About } from './Component/About/About'
 import { Error } from './Component/Error/Error'
+import { initFlowbite } from 'flowbite'
+
 
 function App() {
-  
+  useEffect(() => {
+    initFlowbite();
+  }, [])
   let router = createBrowserRouter([
     {
       
