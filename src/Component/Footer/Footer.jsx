@@ -12,16 +12,16 @@ export function Footer() {
                 <h3 className="text-3xl uppercase text-slate-50">AROUND THE WEB</h3>
                 <ul className="flex justify-center gap-2 py-2">
                     <li className="size-8 border border-slate-50 rounded-full flex justify-center items-center">
-                    <i class="fa-brands fa-facebook text-slate-50"></i>
+                    <i className="fa-brands fa-facebook text-slate-50"></i>
                     </li>
                     <li className="size-8 rounded-full border border-slate-50 flex justify-center items-center" >
-                    <i class="fa-brands fa-twitter text-slate-50"></i>
+                    <i className="fa-brands fa-twitter text-slate-50"></i>
                     </li>
                     <li className="size-8 rounded-full border border-slate-50 flex justify-center items-center">
-                    <i class="fa-brands fa-linkedin text-slate-50"></i>
+                    <i className="fa-brands fa-linkedin text-slate-50"></i>
                     </li>
                     <li className="size-8 rounded-full border border-slate-50 flex justify-center items-center">
-                    <i class="fa-solid fa-globe text-slate-50"></i>
+                    <i className="fa-solid fa-globe text-slate-50"></i>
                     </li>
                 </ul>
             </div>
@@ -32,7 +32,7 @@ export function Footer() {
             </div>
         </div>
         <div className="down">
-             <p className="bg-third text-slate-50 text-center py-5">Copyright <i class="fa-regular fa-copyright"></i> Your Website 2021</p>
+             <p className="bg-third text-slate-50 text-center py-5">Copyright <i className="fa-regular fa-copyright"></i> Your Website 2021</p>
             </div>
    </footer>
     
