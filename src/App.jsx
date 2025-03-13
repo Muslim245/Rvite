@@ -9,6 +9,7 @@ import { Contact } from './Component/Contact/Contact'
 import { About } from './Component/About/About'
 import { Error } from './Component/Error/Error'
 import { initFlowbite } from 'flowbite'
+import { useEffect } from 'react'
 
 
 function App() {
